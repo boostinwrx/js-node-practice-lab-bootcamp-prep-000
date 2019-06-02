@@ -9,4 +9,3 @@ console.log(name)
 
 console.log(parseInt(height)+1)
 console.log("Height:")
-console.log(height)
